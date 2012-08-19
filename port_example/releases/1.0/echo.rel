@@ -1,0 +1,4 @@
+{release, {"Example Port Server", "1.0"}, {erts, "5.4.6"},
+ [{kernel, "2.15.1"},
+  {stdlib, "1.18.1"},
+  {echo_app, "1.0"}]}.
