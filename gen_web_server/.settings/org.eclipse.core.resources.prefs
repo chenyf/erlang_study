@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/gen_web_server.erl=UTF-8
+encoding//src/gws_connection_sup.erl=UTF-8
+encoding//src/gws_server.erl=UTF-8
