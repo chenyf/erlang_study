@@ -1,0 +1,14 @@
+{
+	release,
+	{"echosvr", "1.0.0"},
+	{erts, "5.9.1"},
+	[
+		{kernel, "2.15.1"},
+		{stdlib, "1.18.1"},
+		{sasl, "2.2.1"},
+		%%{mnesia, "4.7"},
+		{echosvr_app, "1.0.0"}
+	]
+}.
+
+
